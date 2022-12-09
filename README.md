@@ -5,8 +5,12 @@
 ### Missions traitées :
 
 - Mise en place du poste de travail
+- Création d'une doc pour l'équipe afin d'utiliser l'outil Node Version Manager (NVM)
 - Suppression d'un champ de formulaire  #front-end
 - Ajout dialogue de suppression sur plusieurs pages #front-end
+- Building time !! (~1h)
+- Embêter Stéphane avec mes petits soucis (~50min)
+- Beaucoup de cours sur PluralSight (Cours sur : Git, Angular, C#)
 
 ### Langages utilisés :
 
