@@ -37,8 +37,11 @@
 
 ### Missions traitées :
 
+- Page Deal Regs formulaire + tableau en cours
 
 ### Langages utilisés :
+
+- Angular (TS)
 
 ## Semaine 4: ()
 
