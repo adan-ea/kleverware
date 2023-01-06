@@ -43,12 +43,16 @@
 
 - Angular (TS)
 
-## Semaine 4: ()
+## Semaine 4: (02/01/2023)
 
-### Missions traitées :
-
+- Extranet Deal regs connect fini 
+- Notification côté KIAG corea
+- Localization
 
 ### Langages utilisés :
+
+- Angular TS
+- JSON
 
 ## Semaine 5: ()
 
